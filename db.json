@@ -1,0 +1,44 @@
+{
+  "clientes": [
+    {
+      "nombre": "Luis",
+      "empresa": "Unlar",
+      "email": "luis.parco@gmail.com",
+      "telefono": "3804786795",
+      "notas": "",
+      "id": 1
+    },
+    {
+      "nombre": "Alberto",
+      "empresa": "Tsoft",
+      "email": "alberto@correo.com",
+      "telefono": "",
+      "notas": "hOLA",
+      "id": 2
+    },
+    {
+      "nombre": "Paulina",
+      "empresa": "Tsoft",
+      "email": "paulina@correo.com",
+      "telefono": "",
+      "notas": "Hola",
+      "id": 3
+    },
+    {
+      "nombre": "Nicolas",
+      "empresa": "Tsoft",
+      "email": "nicoparco98@gmail.com",
+      "telefono": "03804355706",
+      "notas": "Hola",
+      "id": 4
+    },
+    {
+      "nombre": "Josefina",
+      "empresa": "Auxadi",
+      "email": "jparco@gmail.com",
+      "telefono": "3804575485",
+      "notas": "",
+      "id": 5
+    }
+  ]
+}
